@@ -1,0 +1,15 @@
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\bin\Debug\net8.0\Chap07Exceptions.exe
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\bin\Debug\net8.0\Chap07Exceptions.deps.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\bin\Debug\net8.0\Chap07Exceptions.runtimeconfig.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\bin\Debug\net8.0\Chap07Exceptions.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\bin\Debug\net8.0\Chap07Exceptions.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\Chap07Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\Chap07Exceptions.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\Chap07Exceptions.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\Chap07Exceptions.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\Chap07Exceptions.sourcelink.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\Chap07Exceptions.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\refint\Chap07Exceptions.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\Chap07Exceptions.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\Chap07Exceptions.genruntimeconfig.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap07Exceptions\obj\Debug\net8.0\ref\Chap07Exceptions.dll
