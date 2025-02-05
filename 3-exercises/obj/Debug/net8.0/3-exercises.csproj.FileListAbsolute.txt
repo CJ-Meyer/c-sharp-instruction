@@ -1,0 +1,15 @@
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\3-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\3-exercises.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\3-exercises.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\3-exercises.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\3-exercises.sourcelink.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\bin\Debug\net8.0\3-exercises.exe
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\bin\Debug\net8.0\3-exercises.deps.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\bin\Debug\net8.0\3-exercises.runtimeconfig.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\bin\Debug\net8.0\3-exercises.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\bin\Debug\net8.0\3-exercises.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\3-exercises.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\refint\3-exercises.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\3-exercises.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\3-exercises.genruntimeconfig.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\3-exercises\obj\Debug\net8.0\ref\3-exercises.dll

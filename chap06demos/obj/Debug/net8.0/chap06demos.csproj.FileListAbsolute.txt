@@ -1,0 +1,15 @@
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\chap06demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\chap06demos.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\chap06demos.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\chap06demos.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\chap06demos.sourcelink.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\bin\Debug\net8.0\chap06demos.exe
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\bin\Debug\net8.0\chap06demos.deps.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\bin\Debug\net8.0\chap06demos.runtimeconfig.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\bin\Debug\net8.0\chap06demos.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\bin\Debug\net8.0\chap06demos.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\chap06demos.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\refint\chap06demos.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\chap06demos.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\chap06demos.genruntimeconfig.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\chap06demos\obj\Debug\net8.0\ref\chap06demos.dll

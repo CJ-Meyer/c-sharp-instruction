@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\projects-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA94CCE4-CA84-4AF7-916D-A50B413B03E3}|projects-5.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\projects-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA94CCE4-CA84-4AF7-916D-A50B413B03E3}|projects-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\projects-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\projects-5\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:43:05.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
