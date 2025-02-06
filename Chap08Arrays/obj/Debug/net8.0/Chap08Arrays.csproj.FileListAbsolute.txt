@@ -1,0 +1,15 @@
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\bin\Debug\net8.0\Chap08Arrays.exe
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\bin\Debug\net8.0\Chap08Arrays.deps.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\bin\Debug\net8.0\Chap08Arrays.runtimeconfig.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\bin\Debug\net8.0\Chap08Arrays.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\bin\Debug\net8.0\Chap08Arrays.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\Chap08Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\Chap08Arrays.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\Chap08Arrays.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\Chap08Arrays.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\Chap08Arrays.sourcelink.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\Chap08Arrays.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\refint\Chap08Arrays.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\Chap08Arrays.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\Chap08Arrays.genruntimeconfig.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Arrays\obj\Debug\net8.0\ref\Chap08Arrays.dll

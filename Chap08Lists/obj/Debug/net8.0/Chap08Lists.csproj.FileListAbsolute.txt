@@ -1,0 +1,15 @@
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\Chap08Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\Chap08Lists.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\Chap08Lists.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\Chap08Lists.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\Chap08Lists.sourcelink.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\bin\Debug\net8.0\Chap08Lists.exe
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\bin\Debug\net8.0\Chap08Lists.deps.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\bin\Debug\net8.0\Chap08Lists.runtimeconfig.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\bin\Debug\net8.0\Chap08Lists.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\bin\Debug\net8.0\Chap08Lists.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\Chap08Lists.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\refint\Chap08Lists.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\Chap08Lists.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\Chap08Lists.genruntimeconfig.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Chap08Lists\obj\Debug\net8.0\ref\Chap08Lists.dll

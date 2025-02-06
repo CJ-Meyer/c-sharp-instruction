@@ -1,0 +1,15 @@
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\bin\Debug\net8.0\Project-8.exe
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\bin\Debug\net8.0\Project-8.deps.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\bin\Debug\net8.0\Project-8.runtimeconfig.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\bin\Debug\net8.0\Project-8.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\bin\Debug\net8.0\Project-8.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\Project-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\Project-8.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\Project-8.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\Project-8.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\Project-8.sourcelink.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\Project-8.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\refint\Project-8.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\Project-8.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\Project-8.genruntimeconfig.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project-8\obj\Debug\net8.0\ref\Project-8.dll
