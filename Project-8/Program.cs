@@ -8,6 +8,14 @@ namespace Project_8
         {
             // Batting statistics
             //Print("Welcome to the Batting Average Calculator\n");
+
+            // while choice == "y"
+            //prompt user => nbrAtBat: Int
+            //create array => atBat: int[nbrAtBat]
+            //for i = 0; i<= nbrAtBat; i++
+            //prompt user => result: int
+
+
             //string choice = "y";
             //while (choice == "y")
             //{
@@ -52,29 +60,48 @@ namespace Project_8
             // sales by region, region[i++]
             // sales by quarters, quarter[++]
             //total sales 
-            PrintLine("Sales thing");
+            PrintLine("The Sales Report application\n");
             double[,] sales = { {1540.0, 2010.0, 2450.0, 1845.0},
                                 {1130.0, 1168.0, 1847.0, 1491.0},
                                 {1580.0, 2305.0, 2710.0, 1284.0},
                                 {1105.0, 4102.0, 2391.0, 1576.0}};
+            PrintLine("Region\tQ1\t\tQ2\t\tQ3\t\tQ4\t");
             Sales1(sales);
+            regional(sales);
+            quarter(sales);
+            PrintLine(Sales2(sales));
 
-
-            // sale by region
-            PrintLine("Sales by region: ");
-            PrintLine("Region 1: " + (sales[0, 0] + sales[0, 1] + sales[0, 2] + sales[0, 3]).ToString("c"));
-            PrintLine("Region 2: " + (sales[1, 0] + sales[1, 1] + sales[1, 2] + sales[1, 3]).ToString("c"));
-            PrintLine("Region 3: " + (sales[2, 0] + sales[2, 1] + sales[2, 2] + sales[2, 3]).ToString("c"));
-            PrintLine("Region 4: " + (sales[3, 0] + sales[3, 1] + sales[3, 2] + sales[3, 3]).ToString("c"));
-
-            PrintLine("Sales by Quarter: ");
-            PrintLine("Region 1: " + (sales[0, 0] + sales[1, 0] + sales[2, 0] + sales[3, 0]).ToString("c"));
-            PrintLine("Region 2: " + (sales[0, 1] + sales[1, 1] + sales[2, 1] + sales[3, 1]).ToString("c"));
-            PrintLine("Region 3: " + (sales[0, 2] + sales[1, 2] + sales[2, 2] + sales[3, 2]).ToString("c"));
-            PrintLine("Region 4: " + (sales[0, 3] + sales[1, 3] + sales[2, 3] + sales[3, 3]).ToString("c"));
-
-            PrintLine("Total sales: " + Sales2(sales));
+            PrintLine("GoodBYE!");
         }
+
+        private static void regional(double[,] sales)
+        {
+            for (int i = 0; i < sales.GetLength(0); i++)
+            {
+                double total = 0;
+                for (int j = 0; j < sales.GetLength(1); j++)
+                {
+                    total += sales[i, j];
+                }
+                PrintLine("Region " + (i + 1) + ": " + total.ToString("c"));
+            }
+            PrintLine("");
+        }
+
+        private static void quarter(double[,] sales)
+        {
+            for (int i = 0; i < sales.GetLength(1); i++)
+            {
+                double total = 0;
+                for (int j = 0; j < sales.GetLength(0); j++)
+                {
+                    total += sales[j, i];
+                }
+                PrintLine("Quarter " + (i + 1) + ": " + total.ToString("c"));
+            }
+            PrintLine("");
+        }
+
         // sales report pt1 method
         private static void Sales1(double[,] sales)
         {
@@ -85,13 +112,14 @@ namespace Project_8
                 {
                     saleArray += (sales[i, j].ToString("c") + "\t");
                 }
-                PrintLine((i + 1) + "\t" + saleArray + "\n");
+                PrintLine((i + 1) + "\t" + saleArray);
             }
+            PrintLine("");
         }
 
         static string Sales2(double[,] sales)
         {
-            double saleArray = 0;
+            double saleArray = 0.0;
             for (int i = 0; i < sales.GetLength(0); i++)
             {
                 for (int j = 0; j < sales.GetLength(1); j++)
@@ -99,7 +127,8 @@ namespace Project_8
                     saleArray += (sales[i, j]);
                 }
             }
-            return Console.WriteLine("Total sales" + saleArray + "\n");
+            string result = ("\nTotal sales: " + saleArray.ToString("c") + "\n");
+            return result;
         }
 
         // print method 
@@ -119,9 +148,9 @@ namespace Project_8
                 Print(message);
                 if (int.TryParse(Console.ReadLine(), out value) && value >= min && value <= max)
                 {
-                    PrintLine("Invalid input. Please enter a valid number.");
                     return value;
                 }
+                else { PrintLine("Invalid input. Please enter a valid number."); continue; }
             }
         }
         static string GetValidChoice(string message)

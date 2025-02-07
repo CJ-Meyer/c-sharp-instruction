@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Project-8\\Project-8.csproj",
+      "projectUniqueName": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Project-8\\Project-8.csproj",
       "projectName": "Project-8",
-      "projectPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Project-8\\Project-8.csproj",
+      "projectPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Project-8\\Project-8.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Project-8\\obj\\",
+      "outputPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Project-8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

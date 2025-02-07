@@ -1,0 +1,15 @@
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\Ch04DemoNumberStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\Ch04DemoNumberStrings.AssemblyInfoInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\Ch04DemoNumberStrings.AssemblyInfo.cs
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\Ch04DemoNumberStrings.csproj.CoreCompileInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\Ch04DemoNumberStrings.sourcelink.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\bin\Debug\net8.0\Ch04DemoNumberStrings.exe
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\bin\Debug\net8.0\Ch04DemoNumberStrings.deps.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\bin\Debug\net8.0\Ch04DemoNumberStrings.runtimeconfig.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\bin\Debug\net8.0\Ch04DemoNumberStrings.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\bin\Debug\net8.0\Ch04DemoNumberStrings.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\Ch04DemoNumberStrings.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\refint\Ch04DemoNumberStrings.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\Ch04DemoNumberStrings.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\Ch04DemoNumberStrings.genruntimeconfig.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Ch04DemoNumberStrings\obj\Debug\net8.0\ref\Ch04DemoNumberStrings.dll

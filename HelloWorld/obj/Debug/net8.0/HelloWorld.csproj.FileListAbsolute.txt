@@ -1,0 +1,15 @@
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
