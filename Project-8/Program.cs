@@ -44,17 +44,64 @@ namespace Project_8
                 PrintLine($"\nBatting Average: {battingAverage:F3}");
                 PrintLine($"Slugging Percentage: {sluggingPercentage:F3}");
 
-               choice = GetValidChoice("\nAnother player (y/n): ");
+                choice = GetValidChoice("\nAnother player (y/n): ");
             }
-        }
-
             // 8-2 sales report
             // for project 8-2 Sales Report
+            // regions for rows 1,2,3,4 and Q1,Q2,Q3,Q4 for columns
+            // sales by region, region[i++]
+            // sales by quarters, quarter[++]
+            //total sales 
+            PrintLine("Sales thing");
             double[,] sales = { {1540.0, 2010.0, 2450.0, 1845.0},
                                 {1130.0, 1168.0, 1847.0, 1491.0},
                                 {1580.0, 2305.0, 2710.0, 1284.0},
                                 {1105.0, 4102.0, 2391.0, 1576.0}};
-        
+            Sales1(sales);
+
+
+            // sale by region
+            PrintLine("Sales by region: ");
+            PrintLine("Region 1: " + (sales[0, 0] + sales[0, 1] + sales[0, 2] + sales[0, 3]).ToString("c"));
+            PrintLine("Region 2: " + (sales[1, 0] + sales[1, 1] + sales[1, 2] + sales[1, 3]).ToString("c"));
+            PrintLine("Region 3: " + (sales[2, 0] + sales[2, 1] + sales[2, 2] + sales[2, 3]).ToString("c"));
+            PrintLine("Region 4: " + (sales[3, 0] + sales[3, 1] + sales[3, 2] + sales[3, 3]).ToString("c"));
+
+            PrintLine("Sales by Quarter: ");
+            PrintLine("Region 1: " + (sales[0, 0] + sales[1, 0] + sales[2, 0] + sales[3, 0]).ToString("c"));
+            PrintLine("Region 2: " + (sales[0, 1] + sales[1, 1] + sales[2, 1] + sales[3, 1]).ToString("c"));
+            PrintLine("Region 3: " + (sales[0, 2] + sales[1, 2] + sales[2, 2] + sales[3, 2]).ToString("c"));
+            PrintLine("Region 4: " + (sales[0, 3] + sales[1, 3] + sales[2, 3] + sales[3, 3]).ToString("c"));
+
+            PrintLine("Total sales: " + Sales2(sales));
+        }
+        // sales report pt1 method
+        private static void Sales1(double[,] sales)
+        {
+            for (int i = 0; i < sales.GetLength(0); i++)
+            {
+                string saleArray = "";
+                for (int j = 0; j < sales.GetLength(1); j++)
+                {
+                    saleArray += (sales[i, j].ToString("c") + "\t");
+                }
+                PrintLine((i + 1) + "\t" + saleArray + "\n");
+            }
+        }
+
+        static string Sales2(double[,] sales)
+        {
+            double saleArray = 0;
+            for (int i = 0; i < sales.GetLength(0); i++)
+            {
+                for (int j = 0; j < sales.GetLength(1); j++)
+                {
+                    saleArray += (sales[i, j]);
+                }
+            }
+            return Console.WriteLine("Total sales" + saleArray + "\n");
+        }
+
         // print method 
         static void PrintLine(string msg)
         {
@@ -97,7 +144,7 @@ namespace Project_8
 
             for (int i = 0; i < bats; i++)
             {
-                 results[i] = GetValidInt("Enter valid integer for result at bat: ",0,4);
+                results[i] = GetValidInt("Enter valid integer for result at bat: ", 0, 4);
             }
             return results;
         }

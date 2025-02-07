@@ -60,7 +60,7 @@
             //9,10,11,12
 
             int[,] grid = new int [3,4];
-            grid[0,0 ] = 1; grid[0,1] = 2; grid[0,2] = 3; grid[0,3] = 4;
+            grid[0,0] = 1; grid[0,1] = 2; grid[0,2] = 3; grid[0,3] = 4;
             grid[1,0] = 5; grid[1,1] = 6; grid[1,2] = 7; grid[1,3] = 8;
             grid[2,0] = 9; grid[2,1] = 10; grid[2,2] = 11; grid[2,3] = 12;
 
