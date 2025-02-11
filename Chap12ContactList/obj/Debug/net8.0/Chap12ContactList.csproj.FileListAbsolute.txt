@@ -1,0 +1,15 @@
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\bin\Debug\net8.0\Chap12ContactList.exe
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\bin\Debug\net8.0\Chap12ContactList.deps.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\bin\Debug\net8.0\Chap12ContactList.runtimeconfig.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\bin\Debug\net8.0\Chap12ContactList.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\bin\Debug\net8.0\Chap12ContactList.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\Chap12ContactList.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\Chap12ContactList.AssemblyInfoInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\Chap12ContactList.AssemblyInfo.cs
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\Chap12ContactList.csproj.CoreCompileInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\Chap12ContactList.sourcelink.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\Chap12ContactList.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\refint\Chap12ContactList.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\Chap12ContactList.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\Chap12ContactList.genruntimeconfig.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12ContactList\obj\Debug\net8.0\ref\Chap12ContactList.dll

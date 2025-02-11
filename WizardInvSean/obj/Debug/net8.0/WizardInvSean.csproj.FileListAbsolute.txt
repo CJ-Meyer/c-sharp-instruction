@@ -1,0 +1,15 @@
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\bin\Debug\net8.0\WizardInvSean.exe
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\bin\Debug\net8.0\WizardInvSean.deps.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\bin\Debug\net8.0\WizardInvSean.runtimeconfig.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\bin\Debug\net8.0\WizardInvSean.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\bin\Debug\net8.0\WizardInvSean.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\WizardInvSean.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\WizardInvSean.AssemblyInfoInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\WizardInvSean.AssemblyInfo.cs
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\WizardInvSean.csproj.CoreCompileInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\WizardInvSean.sourcelink.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\WizardInvSean.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\refint\WizardInvSean.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\WizardInvSean.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\WizardInvSean.genruntimeconfig.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\WizardInvSean\obj\Debug\net8.0\ref\WizardInvSean.dll

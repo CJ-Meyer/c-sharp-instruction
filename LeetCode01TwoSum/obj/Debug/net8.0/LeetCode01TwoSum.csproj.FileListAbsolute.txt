@@ -1,0 +1,15 @@
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\bin\Debug\net8.0\LeetCode01TwoSum.exe
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\bin\Debug\net8.0\LeetCode01TwoSum.deps.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\bin\Debug\net8.0\LeetCode01TwoSum.runtimeconfig.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\bin\Debug\net8.0\LeetCode01TwoSum.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\bin\Debug\net8.0\LeetCode01TwoSum.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\LeetCode01TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\LeetCode01TwoSum.AssemblyInfoInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\LeetCode01TwoSum.AssemblyInfo.cs
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\LeetCode01TwoSum.csproj.CoreCompileInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\LeetCode01TwoSum.sourcelink.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\LeetCode01TwoSum.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\refint\LeetCode01TwoSum.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\LeetCode01TwoSum.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\LeetCode01TwoSum.genruntimeconfig.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode01TwoSum\obj\Debug\net8.0\ref\LeetCode01TwoSum.dll

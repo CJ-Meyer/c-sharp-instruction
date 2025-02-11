@@ -1,0 +1,15 @@
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\bin\Debug\net8.0\LeetCode-Roman2Int.exe
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\bin\Debug\net8.0\LeetCode-Roman2Int.deps.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\bin\Debug\net8.0\LeetCode-Roman2Int.runtimeconfig.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\bin\Debug\net8.0\LeetCode-Roman2Int.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\bin\Debug\net8.0\LeetCode-Roman2Int.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\LeetCode-Roman2Int.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\LeetCode-Roman2Int.AssemblyInfoInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\LeetCode-Roman2Int.AssemblyInfo.cs
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\LeetCode-Roman2Int.csproj.CoreCompileInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\LeetCode-Roman2Int.sourcelink.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\LeetCode-Roman2Int.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\refint\LeetCode-Roman2Int.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\LeetCode-Roman2Int.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\LeetCode-Roman2Int.genruntimeconfig.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\LeetCode-Roman2Int\obj\Debug\net8.0\ref\LeetCode-Roman2Int.dll

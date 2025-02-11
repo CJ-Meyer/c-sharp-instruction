@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\WizardInvSean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D388C4-4A3C-4D73-A759-4F33089A6709}|WizardInvSean.csproj|d:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\wizardinvsean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D388C4-4A3C-4D73-A759-4F33089A6709}|WizardInvSean.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\WizardInvSean\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\WizardInvSean\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:22:12.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

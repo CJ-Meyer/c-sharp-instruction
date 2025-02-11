@@ -1,0 +1,15 @@
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\bin\Debug\net8.0\Chap12Demos.exe
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\bin\Debug\net8.0\Chap12Demos.deps.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\bin\Debug\net8.0\Chap12Demos.runtimeconfig.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\bin\Debug\net8.0\Chap12Demos.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\bin\Debug\net8.0\Chap12Demos.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\Chap12Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\Chap12Demos.AssemblyInfoInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\Chap12Demos.AssemblyInfo.cs
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\Chap12Demos.csproj.CoreCompileInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\Chap12Demos.sourcelink.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\Chap12Demos.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\refint\Chap12Demos.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\Chap12Demos.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\Chap12Demos.genruntimeconfig.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap12Demos\obj\Debug\net8.0\ref\Chap12Demos.dll

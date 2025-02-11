@@ -1,0 +1,15 @@
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\bin\Debug\net8.0\Chap09Demos.exe
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\bin\Debug\net8.0\Chap09Demos.deps.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\bin\Debug\net8.0\Chap09Demos.runtimeconfig.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\bin\Debug\net8.0\Chap09Demos.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\bin\Debug\net8.0\Chap09Demos.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\Chap09Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\Chap09Demos.AssemblyInfoInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\Chap09Demos.AssemblyInfo.cs
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\Chap09Demos.csproj.CoreCompileInputs.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\Chap09Demos.sourcelink.json
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\Chap09Demos.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\refint\Chap09Demos.dll
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\Chap09Demos.pdb
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\Chap09Demos.genruntimeconfig.cache
+D:\repos\Max\c-sharp-repos\c-sharp-instruction\Chap09Demos\obj\Debug\net8.0\ref\Chap09Demos.dll
