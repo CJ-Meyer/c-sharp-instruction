@@ -10,3 +10,15 @@ D:\repos\Max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj
 D:\repos\Max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\refint\ConsoleLibrary.dll
 D:\repos\Max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ConsoleLibrary.pdb
 D:\repos\Max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ref\ConsoleLibrary.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\bin\Release\net8.0\ConsoleLibrary.deps.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\bin\Release\net8.0\ConsoleLibrary.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\bin\Release\net8.0\ConsoleLibrary.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ConsoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ConsoleLibrary.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ConsoleLibrary.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ConsoleLibrary.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ConsoleLibrary.sourcelink.json
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ConsoleLibrary.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\refint\ConsoleLibrary.dll
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ConsoleLibrary.pdb
+C:\repos\max\c-sharp-repos\c-sharp-instruction\ConsoleLibrary\ConsoleLibrary\obj\Release\net8.0\ref\ConsoleLibrary.dll
