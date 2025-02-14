@@ -2,7 +2,7 @@
 
 namespace Chap15Demos
 {
-    internal class Customer : Summarizable{
+    internal class Customer : Summarizable {
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string CustomerNumber { get; set; }

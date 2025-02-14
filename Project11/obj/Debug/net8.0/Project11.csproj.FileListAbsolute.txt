@@ -1,0 +1,6 @@
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project11\obj\Debug\net8.0\Project11.csproj.AssemblyReference.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project11\obj\Debug\net8.0\Project11.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project11\obj\Debug\net8.0\Project11.AssemblyInfoInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project11\obj\Debug\net8.0\Project11.AssemblyInfo.cs
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project11\obj\Debug\net8.0\Project11.csproj.CoreCompileInputs.cache
+C:\repos\max\c-sharp-repos\c-sharp-instruction\Project11\obj\Debug\net8.0\Project11.sourcelink.json
