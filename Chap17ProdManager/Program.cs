@@ -10,7 +10,26 @@ namespace Chap17ProdManager {
             // Products will be stored in a txt  file named products.txt
 
             // Load products from file
-
+            int command = 9;
+            while (command != 0)
+            {
+                DisplayMenu();
+                command = MyConsole.PromptInt("Command: ");
+                switch (command)
+                {
+                    case 1:
+                        ListProducts();
+                        break;
+                    case 2:
+                        AddProduct();
+                        break;
+                    case 0:
+                        break;
+                    default:
+                        MyConsole.PrintLine("Invalid Command. Try again.");
+                        break;
+                }
+            }
             //while command !=0
 
             MyConsole.PrintLine("BYE!");

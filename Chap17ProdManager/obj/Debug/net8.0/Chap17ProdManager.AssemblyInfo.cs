@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chap17ProdManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c53c844215638ca751c9eb59edb9d1456b75203")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ef18e365a97462e8090e880f2e25a0555b4230")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chap17ProdManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chap17ProdManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
