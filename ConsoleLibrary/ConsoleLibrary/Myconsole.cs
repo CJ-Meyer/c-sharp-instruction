@@ -1,6 +1,43 @@
 ﻿namespace ConsoleLibrary
 {
     public class MyConsole {
+        public static double PromptDouble(string prompt)
+        {
+            double result = 0;
+            bool isValid = false;
+            while (!isValid)
+            {
+                Print(prompt);
+                if (Double.TryParse(Console.ReadLine(), out result))
+                {
+                    isValid = true;
+                }
+                else
+                {
+                    PrintLine("Error - invalid double.");
+                }
+            }
+
+            return result;
+        }
+        public static decimal PromptDecimal(string prompt)
+        {
+            decimal result = 0m;
+            bool isValid = false;
+            while (!isValid)
+            {
+                Print(prompt);
+                if (Decimal.TryParse(Console.ReadLine(), out result))
+                {
+                    isValid = true;
+                }
+                else
+                {
+                    PrintLine("Error - invalid decimal.");
+                }
+            }
+            return result;
+        }
         public static int PromptInt(string text)
         {
             int result = 0; bool isValid = false;

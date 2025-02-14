@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Project11\\Project11.csproj": {}
+    "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Project11\\Project11.csproj": {}
   },
   "projects": {
-    "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Project11\\Project11.csproj": {
+    "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Project11\\Project11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Project11\\Project11.csproj",
+        "projectUniqueName": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Project11\\Project11.csproj",
         "projectName": "Project11",
-        "projectPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Project11\\Project11.csproj",
+        "projectPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Project11\\Project11.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Project11\\obj\\",
+        "outputPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Project11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

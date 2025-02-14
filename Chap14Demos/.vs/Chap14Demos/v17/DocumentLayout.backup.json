@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|d:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\chap14demos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|d:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\chap14demos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|d:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\chap14demos\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|solutionrelative:software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|d:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\chap14demos\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|d:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\chap14demos\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665621F-6C7C-4FC0-8A7C-8E4019806BAD}|Chap14Demos.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Software.cs",
+              "DocumentMoniker": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\Software.cs",
+              "RelativeDocumentMoniker": "Software.cs",
+              "ToolTip": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\Software.cs*",
+              "RelativeToolTip": "Software.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:41:04.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "book.cs",
+              "DocumentMoniker": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\book.cs",
+              "RelativeDocumentMoniker": "book.cs",
+              "ToolTip": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\book.cs*",
+              "RelativeToolTip": "book.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:27:04.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\Product.cs*",
+              "RelativeToolTip": "Product.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:47:49.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie.cs",
+              "ToolTip": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\Movie.cs",
+              "RelativeToolTip": "Movie.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:08:27.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap14Demos\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:01:22.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

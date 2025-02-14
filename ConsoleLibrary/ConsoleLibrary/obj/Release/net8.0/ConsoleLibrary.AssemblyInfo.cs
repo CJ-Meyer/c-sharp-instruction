@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d486aff54891aadb9137293e6532c05315769f67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b88f2bac97d9851b8377f2ba22455cf3cf488b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

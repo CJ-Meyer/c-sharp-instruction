@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\ConsoleLibrary.csproj": {}
+    "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\ConsoleLibrary.csproj": {}
   },
   "projects": {
-    "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\ConsoleLibrary.csproj": {
+    "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\ConsoleLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\ConsoleLibrary.csproj",
+        "projectUniqueName": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\ConsoleLibrary.csproj",
         "projectName": "ConsoleLibrary",
-        "projectPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\ConsoleLibrary.csproj",
+        "projectPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\ConsoleLibrary.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\obj\\",
+        "outputPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\ConsoleLibrary\\ConsoleLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
