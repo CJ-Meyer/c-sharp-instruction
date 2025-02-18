@@ -1,5 +1,5 @@
-﻿using System.Reflection.Metadata.Ecma335;
-using ConsoleLibrary;
+﻿using ConsoleLibrary;
+using HangmanGame.Model;
 
 namespace HangmanGame
 {
@@ -8,15 +8,34 @@ namespace HangmanGame
         static string[] images = new string[7];
         static void Main(string[] args)
         {
+            string hiddenWord = "";
+            string choice = "y";
             MyConsole.PrintLine("Welcome to the hangman\n");
-            string player1 = "";
-            PromptPlayerName(out player1);
+            MyConsole.PrintLine("Rules: Continue to guess letters until your man is formed and ultimately hung, or you get the word filled correctly.\nWhichever comes first");
+            //PromptPlayerName(out player1);
             PopulateImages();
-            for (int i = 0; i < images.Length; i++) {
-                MyConsole.PrintLine($"images{i}");
-                MyConsole.PrintLine(images[i]);
-                MyConsole.PrintLine("==========");
+            HangmanWords hang = new HangmanWords();
+            while (choice == "y")
+            {
+
+                bool wordGuessed = false;
+                int incorrectGuesses = 0;
+                string randomWord = hang.GetrandomWord();
+                MyConsole.PrintLine($"Random word: {randomWord}");
+                string hidden = hang.GetHiddenWord(randomWord);
+                List<string> lettersGuessed = new List<string>();
+                while (incorrectGuesses != 6 && !wordGuessed)
+                {
+                    MyConsole.PrintLine(GetHangmanImage(incorrectGuesses));
+                    Console.Write("Hint: ");
+                    hang.DisplayHiddenWord(hidden);
+                    string letterGuessed = MyConsole.PromptString("Guess a letter in the word: ");
+                    MyConsole.PrintLine($"Letter guessed: {letterGuessed}");
+                    
+                }
+                choice = MyConsole.PromptReqString("Continue? (y/n): ", "y", "n");
             }
+
             MyConsole.PrintLine("BYE!");
 
         }
@@ -87,16 +106,9 @@ namespace HangmanGame
                 |  / \
                 _______
                 """;
-
+            
 
         }
-        private static void PromptPlayerName(out string player1)
-        {
-            player1 = MyConsole.PromptString("player 1, enter Name:");
-        }
-
-        
-
     }
 }
 
