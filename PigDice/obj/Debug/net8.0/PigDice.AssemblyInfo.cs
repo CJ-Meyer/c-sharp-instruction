@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PigDice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c29b6f5f2da454655bba4c4dac8513fb388a6dff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1769b61732d20c6b7bced0d57be528eb890b8ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("PigDice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PigDice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

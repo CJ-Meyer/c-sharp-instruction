@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\PigDice\\PigDice.csproj",
+      "projectUniqueName": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\PigDice\\PigDice.csproj",
       "projectName": "PigDice",
-      "projectPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\PigDice\\PigDice.csproj",
+      "projectPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\PigDice\\PigDice.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\PigDice\\obj\\",
+      "outputPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\PigDice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
