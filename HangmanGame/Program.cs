@@ -17,7 +17,7 @@ namespace HangmanGame
             HangmanWords hang = new HangmanWords();
             while (choice == "y")
             {
-
+                bool letter = false;
                 bool wordGuessed = false;
                 int incorrectGuesses = 0;
                 string randomWord = hang.GetrandomWord();
@@ -42,18 +42,24 @@ namespace HangmanGame
                         char c = charsWord[i];
                         if (letterGuessed == c.ToString()) {
                             charsHidden[i] = c;
-                            MyConsole.PrintLine($"letter matched at index: {i}"); 
+                            MyConsole.PrintLine($"letter matched at index: {i}");
+                            letter = true;
                         }
                     }
                     
-
+                    if (letter != true)
+                    {
+                        incorrectGuesses++;
+                        
+                    }
+                    letter = false;
                     hidden = new string(charsHidden);
                     DisplayHiddenWord(hidden);
                     if(hidden.IndexOf("_") == -1)
                     {
                         wordGuessed = true;
                     }
-
+                    
 
 
                     // if guessed letter in word 
@@ -71,6 +77,7 @@ namespace HangmanGame
 
 
                 }
+                MyConsole.PrintLine($"Number of incorrect guesses: {incorrectGuesses}");
                 choice = MyConsole.PromptReqString("Continue? (y/n): ", "y", "n");
             }
 

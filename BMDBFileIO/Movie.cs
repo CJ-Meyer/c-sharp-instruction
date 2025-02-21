@@ -21,7 +21,7 @@
         // returns string of display text
     public string ToString()
         {
-            return $"ID: {ID}\nTitle: {Title}\nYear: {Year}\nRating: {Rating}\nDirector: {Director}\n";
+            return $"Movie: ({ID}), {Title}, {Year}, {Rating}, {Director}";
         }
     }
 }

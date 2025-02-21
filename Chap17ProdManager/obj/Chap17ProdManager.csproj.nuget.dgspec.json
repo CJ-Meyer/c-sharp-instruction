@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\Chap17ProdManager.csproj": {}
+    "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\Chap17ProdManager.csproj": {}
   },
   "projects": {
-    "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\Chap17ProdManager.csproj": {
+    "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\Chap17ProdManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\Chap17ProdManager.csproj",
+        "projectUniqueName": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\Chap17ProdManager.csproj",
         "projectName": "Chap17ProdManager",
-        "projectPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\Chap17ProdManager.csproj",
+        "projectPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\Chap17ProdManager.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\obj\\",
+        "outputPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Chap17ProdManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

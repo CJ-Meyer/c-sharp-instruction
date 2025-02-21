@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\PersonManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7A686DC-FB29-4A5F-9C55-DD98B441A192}|PersonManager.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\personmanager\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7A686DC-FB29-4A5F-9C55-DD98B441A192}|PersonManager.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Chap18Demos\\InvoiceDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7A686DC-FB29-4A5F-9C55-DD98B441A192}|PersonManager.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\personmanager\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +16,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F7A686DC-FB29-4A5F-9C55-DD98B441A192}|PersonManager.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\personmanager\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7A686DC-FB29-4A5F-9C55-DD98B441A192}|PersonManager.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A686DC-FB29-4A5F-9C55-DD98B441A192}|PersonManager.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\personmanager\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A686DC-FB29-4A5F-9C55-DD98B441A192}|PersonManager.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +29,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceDB.cs",
+              "DocumentMoniker": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Chap18Demos\\InvoiceDB.cs",
+              "RelativeDocumentMoniker": "..\\Chap18Demos\\InvoiceDB.cs",
+              "ToolTip": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\Chap18Demos\\InvoiceDB.cs",
+              "RelativeToolTip": "..\\Chap18Demos\\InvoiceDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:32:35.91Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -69,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\PersonManager\\UI\\Program.cs",
               "RelativeDocumentMoniker": "UI\\Program.cs",

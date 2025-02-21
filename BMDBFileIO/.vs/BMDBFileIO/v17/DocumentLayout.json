@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\bmdbfileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\bmdbfileio\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|solutionrelative:filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\bmdbfileio\\moviedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|solutionrelative:moviedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\bmdbfileio\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|c:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\bmdbfileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D71C77-ADFD-4A52-A210-A76078A2567A}|BMDBFileIO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileHandler.cs",
-              "DocumentMoniker": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\FileHandler.cs",
-              "RelativeDocumentMoniker": "FileHandler.cs",
-              "ToolTip": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\FileHandler.cs",
-              "RelativeToolTip": "FileHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MovieDB.cs",
+              "DocumentMoniker": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\MovieDB.cs",
+              "RelativeDocumentMoniker": "MovieDB.cs",
+              "ToolTip": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\MovieDB.cs",
+              "RelativeToolTip": "MovieDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T18:18:20.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\Movie.cs",
               "RelativeDocumentMoniker": "Movie.cs",
               "ToolTip": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\Movie.cs",
               "RelativeToolTip": "Movie.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBcAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T17:54:12.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\repos\\max\\c-sharp-repos\\c-sharp-instruction\\BMDBFileIO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T01:52:01.196Z",
               "EditorCaption": ""

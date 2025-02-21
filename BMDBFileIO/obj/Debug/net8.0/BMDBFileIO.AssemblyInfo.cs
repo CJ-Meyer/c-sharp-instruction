@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BMDBFileIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54acf33c0ec3a520964461e0995055323ba1d88b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8a3bdc4c497853afcf632550840cd1eb701fa8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BMDBFileIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BMDBFileIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

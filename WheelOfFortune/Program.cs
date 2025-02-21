@@ -13,9 +13,14 @@
 
             // GamePlan and questions
             // How are you storing the word or phrase selection? How are you storing the 'blanks' version?
+
             // How are you maintaining the player's bank?
+            // maintain the player to bank index using a Dictionary?
+
             // What does the logic look like for managing a round?
+
             // What does the logic look like for buying a vowel?
+
             // How are you running the game overall?
         }
     }
